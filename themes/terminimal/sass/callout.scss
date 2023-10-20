@@ -5,21 +5,27 @@
   align-items: center;
   margin-bottom: 1.3333333em;
   line-height: 1.3em;
-  padding: 0.4em;
+  padding: 0.5em;
   border-radius: 0.2em;
   color: white;
   font-size: 0.9em;
   font-weight: 300;
   border: 2px solid #9f008b;
+  > .content {
+    display: block;
+  }
+
   p {
     margin-top: 0 !important;
+    display: block;
     margin-bottom: 0 !important;
+    padding: 0.4em;
   }
   .mascot {
     display: flex;
     padding: 0.4em;
     img { 
-      max-width: 50px;
+      max-width: 100px;
     }
   }
 }
