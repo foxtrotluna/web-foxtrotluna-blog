@@ -1,0 +1,46 @@
+title = "Luna's blog"
+description = "What have I done?"
+
+# The URL the site will be built for
+base_url = "https://blog.foxtrotluna.social"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# Generates info for RSS readers
+generate_feed = true
+feed_filename = "rss.xml"
+
+taxonomies = [
+    {name = "tags"},
+]
+
+theme = "terminimal"
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+logo_text = "Luna's Blog"
+accent_color = "pink"
+background_color = "dark"
+author = "Luna Fox Winters"
+enable_post_view_navigation = true
+page_titles = "combined"
+favicon = "/favicon.png"
+favicon_mimetype = "image/png"
+menu_items = [
+    {name = "blog", url = "$BASE_URL"},
+    {name = "tags", url = "$BASE_URL/tags"},
+    {name = "archive", url = "$BASE_URL/archive"},
+    {name = "about me", url = "$BASE_URL/about"},
+    {name = "socials", url = "https://foxtrotluna.social", newtab = true},
+    {name = "github", url = "https://github.com/foxtrotluna", newtab = true},
+]
