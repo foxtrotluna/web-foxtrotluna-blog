@@ -6,6 +6,7 @@ date = 2016-12-13
 [taxonomies]
 tags = ["vault", "retrospective", "games", "gamedev"]
 
+
 [extra]
 enable_comments = true
 
