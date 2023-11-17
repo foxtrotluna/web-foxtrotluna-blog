@@ -4,7 +4,8 @@ title = "Velocity Glyph - 5 years and A Ludum Dare 37 post mortem"
 date = 2016-12-13
 
 [taxonomies]
-tags = ["vault", "retrospective", "productivity", "podcast"]
+tags = ["vault", "retrospective", "games", "gamedev"]
+
 
 [extra]
 enable_comments = true
