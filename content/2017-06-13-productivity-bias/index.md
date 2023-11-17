@@ -44,6 +44,7 @@ This work-discussion really interested me, Grey has a number of habits that seem
           position="center",
           caption_position="left",
           caption="The logo for the Hello Internet podcast",
+          alt="The logo for the Hello Internet podcast",
           caption_style="font-weight: bold; font-style: italic;") }}
 As I said above, I’d started a new job, it was in a similar field as before (web development), but in a vastly different environment. There were more layers to management, it was one big project instead of many smaller ones, and instead of working with 1 other person, I was working with about 20 other people.
 
