@@ -96,3 +96,5 @@ use_full_hack_font = false
 #
 # Note that the main (index) page only has the main title.
 page_titles = "main_only"
+
+external_links_target_blank = true
