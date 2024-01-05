@@ -9,11 +9,15 @@ My pronouns are *she/her* or *they/them*
 
 I run a small creative agency called [GoCreateFun](http://gocreate.fun)! We work in a variety of creative industries, but our main focus is web design and development, however, we have also provided illustrations for a published book and music for game trailers. 
 
-{% callout(type="happy", side="left") %}
+{% callout(type="happy", side="left", mascot="foxtrot") %}
 This is Foxtrot! She's absolutely *not* my fursona, not at all!
 
 Seriously, I don't particularly identify as a furry, but I do consider myself a bit of a foxgirl, so for my posts here, 
 Foxtrot can offer an aside or "third voice" interjecting into posts.
+{% end %}
+{% callout(type="blobfox", side="right") %}
+Alternatively, I may use the Blobfox emotes, by [Volpeon](https://volpeon.ink/emojis/bunhd/), as they offer wider variety
+of expressions
 {% end %}
 
 I'm always tinkering with something, be it a new software project, hardware hacking or breaking games in unique ways. This little place is for me to talk about these things, or my thoughts on other issues that won't typically fit on social media.

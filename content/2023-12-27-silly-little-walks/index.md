@@ -12,7 +12,7 @@ enable_comments = true
 # Silly Little Walks
 
   
-{% callout(type="alert", side="left") %}
+{% callout(type="signforbidden", side="right") %}
 I feel like I need to add a small content warning to this post. I'll be discussing my health and especially my weight in this post. I have no judgements for other people and I am only doing what I'm doing for myself. 
 
 {% end %}
@@ -27,7 +27,7 @@ I used to be fairly active. I'd cycle often, walk most places and do some mild s
 
 Alas, life happens and my regular VR exercise slowed down significantly, not helped by a large house move during the pandemic which through my entire schedule out of whack.
 
-{% callout(type="quizzical", side="right") %}
+{% callout(type="terrified", side="right") %}
   Moving during a pandemic is something I recommend, by the way. 
 {% end %}
 
@@ -69,7 +69,7 @@ I figured that it can't hurt, and the worst case scenario is that it doesn't wor
 
 So I decided to start my silly little walks, and I'd use my Apple Watch to [track them](https://support.apple.com/en-gb/guide/watch/apd3bf6d85a6/watchos). After the first day, I realised just how close I was to "closing my rings", and so I did a little extra that day to close them.
 
-{% callout(type="alert", side="left") %}
+{% callout(type="sweating", side="left") %}
   I promise, I’ll get to the results at the end, but in this case the interesting part really is the journey.
 {% end %}
 
@@ -90,7 +90,7 @@ I wear a separate apple watch (my old SE model) to bed for sleep tracking, so I 
 
 My walks have typically consisted of just going up and down the streets around my house, usually 15-20 minutes. Sometimes I'll visit family, or go to the local store. The most important thing in my mind is that I have physically stepped outside. Meeting my other goals is a separate event in my mind. My bare minimum would be to leave out of the front door, hang around at the end of the front yard for 30 seconds and come back in, this specific goal is all about *being outside*.
 
-{% callout(type="happy", side="right") %}
+{% callout(type="happy", side="right" mascot="foxtrot") %}
   I will write a post one day going into more detail of how I use devices in my daily life. I have some potentially eclectic habits!
 {% end %}
 
@@ -113,7 +113,7 @@ Well, my depression isn't fixed, my health problems persist, and the less said a
 
 I have not lost any weight. I may have even gained some weight, and I still cannot walk longer than 25 minutes without back pain flaring up quite badly(likely from my weight). This is okay though, because I really have noticed some changes, and that will carry me through to the next month and beyond.
 
-{% callout(type="quizzical", side="right") %}
+{% callout(type="thumbsup", side="right") %}
   I will likely do an update post in January or February when I've surpassed the 2 or 3 month mark.
 {% end %}
 
