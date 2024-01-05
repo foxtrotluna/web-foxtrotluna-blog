@@ -1,11 +1,11 @@
 <div class="callout">
   {% if side and type and side == "left" %}
-  {% include "partials/shoutout-mascot.html" %}
+  {% include "partials/shoutout.html" %}
   {% endif %}
   <div class="content">
       {{ body | markdown | safe }}
   </div>
   {% if side and type and side == "right" %}
-  {% include "partials/shoutout-mascot.html" %}
+    {% include "partials/shoutout.html" %}
   {% endif %}
 </div>
