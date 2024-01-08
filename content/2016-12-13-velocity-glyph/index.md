@@ -11,7 +11,7 @@ tags = ["vault", "retrospective", "games", "gamedev"]
 enable_comments = true
 
 +++
-{% callout(type="quizzical", side="left") %}
+{% callout(type="box", side="left") %}
 This post is one from my vault of old posts. It does not reflect who I am now, and I'll interject with Foxtrot with some thoughts on it as a
 retrospective. The quality of the main post is not up to my current standards, although I hope my interjections will help to keep you interested!
 {% end %}
@@ -31,7 +31,7 @@ This time, I created an arcade racer, kinda Wipeout/Re-Volt inspired, a miniatur
           caption_position="left",
           alt="A screenshot of a twisty dark scifi track for a wipeout-style racing game",
           caption_style="font-weight: bold; font-style: italic;") }}
-{% callout(type="alert", side="right") %}
+{% callout(type="darkghost", side="right") %}
 So many of my early projects are way, way too dark. I will find the light eventually, I promise!
 {% end %}
           

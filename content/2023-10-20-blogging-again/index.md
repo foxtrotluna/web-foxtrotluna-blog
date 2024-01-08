@@ -26,7 +26,7 @@ Since the space year 1999, or whenever I first started using the internet, I've 
 RSS is king, it's a simple way of collating your interests, and I use [Reeder](https://reederapp.com) and [Feedbin](https://feedbin.com) to consume
 a lot of my written media.
 
-{% callout(type="quizzical", side="right") %}
+{% callout(type="dead", side="right") %}
 Full disclosure, I'm writing this post during my second bout with Covid-19, which has me feeling a little loopy and low energy. 
 {% end %}
 
