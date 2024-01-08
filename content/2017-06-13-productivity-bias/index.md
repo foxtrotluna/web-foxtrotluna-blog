@@ -10,7 +10,7 @@ enable_comments = true
 
 +++
 
-{% callout(type="quizzical", side="left") %}
+{% callout(type="box", side="left") %}
 This post is one from my vault of old posts. It does not reflect who I am now, and I'll interject with Foxtrot with some thoughts on it as a
 retrospective. The quality of the main post is not up to my current standards, although I hope my interjections will help to keep you interested!
 {% end %}
@@ -26,7 +26,7 @@ What I didn’t realise, is how much that podcast ended up changing my life.
 
 <!-- more -->
 
-{% callout(type="alert", side="right") %}
+{% callout(type="upsidedown", side="right") %}
 Okay this may seem a little dramatic, but I can safely say 7 years on that it absolutely had a profound impact on my life. I was also going through a lot of *gender* at the time, so correlation causation etc etc.
 {% end %}
 
@@ -50,8 +50,8 @@ As I said above, I’d started a new job, it was in a similar field as before (w
 
 We had a ticketing system at this new job, and tickets could remain open for a decent length of time, waiting on other tickets to complete, a staff member to come back off holiday, or any number of reasons. As a result, you could end up with a large number of tickets assigned to you, and no idea which is the next step to take. 
 
-So I developed a *system*, one where I knew exactly what tickets were available to work on, a system where as tickets were completed, I’d always know which is next, there was cascading, priorities, all that good stuff. I’d tried out a number of apps, and at that point, I was settled on [Hitask](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiuzKaV6IOCAxUTQkEAHdmEBdgQFnoECAcQAQ&url=https%3A%2F%2Fhitask.com%2F&usg=AOvVaw2SYUcsanaW2uIAvwM9DIud&opi=89978449). 
-{% callout(type="quizzical", side="right") %}
+So I developed a *system*, one where I knew exactly what tickets were available to work on, a system where as tickets were completed, I’d always know which is next, there was cascading, priorities, all that good stuff. I’d tried out a number of apps, and at that point, I was settled on [Hitask](https://hitask.com). 
+{% callout(type="computer", side="right") %}
 I will go into this system in more detail in a future post. It's ever-changing, as all good systems should be. But it will be nice to explain how and why I work in more detail. I use todoist now, as well as some other apps and good ol' pen and paper. 
 
 I still have my hand written notes from this period.
@@ -61,7 +61,7 @@ I’d never been so productive, my bottleneck has always been my productivity, t
 
 So I kept listening to the podcast, and I kept working on my productivity system. I changed jobs again, this time something with an even longer commute and more stress (although in a field I really wanted to gain some experience in). I did manage to apply my newly found productivity skills and methods into managing a team, which went well, up until I quit for reasons I won’t go into.
 
-{% callout(type="alert", side="left") %}
+{% callout(type="facepalm", side="left") %}
 Life at the facepalm factory was absolutely tortuous, I still have flashbacks.
 {% end %}
 
@@ -75,7 +75,7 @@ Work started to trickle in, then pile in. I wasn’t ready, and I crashed hard. 
 
 I started listening to [Cortex](https://www.relay.fm/cortex), a show specifically about productivity and how the 2 hosts work. That really gave me the kick I needed. 
 
-{% callout(type="happy", side="right") %}
+{% callout(type="thinksmart", side="right") %}
 Of course, this podcast has also now become almost entirely about itself. I think it is a fate of all non-fiction podcasts.
 {% end %}
 
@@ -91,7 +91,7 @@ The idea being, a lot of the information they provide might not have helped them
 
 I’m not successful. I likely never will be, the chances are tiny. Success is a personal thing and my definition of success might not be yours, but for me to deem myself successful, there’s a long list of criteria.
 
-{% callout(type="alert", side="left") %}
+{% callout(type="alert", side="left" mascot="foxtrot") %}
 I've no idea what these criteria actually are for myself, but I do know I don't yet consider myself successful, despite my many successes in the years since I wrote this post.
 {% end %}
 

@@ -1,0 +1,13 @@
+<div class="mascot">
+  {% if mascot and mascot == 'foxtrot' %}
+    {% set basepath = '/images/rantsona/' %}
+  {% else %}
+    {% if side and type and side == "right" %}
+    {% set basepath = '/images/blobfox/' %}
+    {% else %}
+    {% set basepath = '/images/blobfox_flip/' %}
+    {% endif %}
+  {% endif %}
+  <img  src="{{ get_url(path=basepath ~ type ~ '.png', cachebust=true) }}"
+    alt="Pixel art animation of a blob fox with a {{ type }} expression." />
+</div>
