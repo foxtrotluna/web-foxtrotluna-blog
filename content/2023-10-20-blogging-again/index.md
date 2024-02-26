@@ -1,6 +1,6 @@
 +++
 title = "Blogging again"
-date = 2022-10-20
+date = 2023-10-20
 
 [taxonomies]
 tags = ["blogging", "productivity"]
