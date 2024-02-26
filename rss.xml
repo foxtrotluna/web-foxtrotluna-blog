@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Luna&#x27;s blog</title>
+      <link>https://blog.foxtrotluna.social</link>
+      <description>What have I done?</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.foxtrotluna.social/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Silly Little Walks</title>
+          <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.foxtrotluna.social/silly-little-walks/</link>
+          <guid>https://blog.foxtrotluna.social/silly-little-walks/</guid>
+          <description>&lt;h1 id=&quot;silly-little-walks&quot;&gt;Silly Little Walks&lt;&#x2F;h1&gt;
+&lt;div class=&quot;callout&quot;&gt;
+  
+  &lt;div class=&quot;content&quot;&gt;
+      &lt;p&gt;I feel like I need to add a small content warning to this post. I&#x27;ll be discussing my health and especially my weight in this post. I have no judgements for other people and I am only doing what I&#x27;m doing for myself.&lt;&#x2F;p&gt;
+
+  &lt;&#x2F;div&gt;
+  
+    &lt;div class=&quot;mascot&quot;&gt;
+  
+    
+    
+    
+  
+  &lt;img  src=&quot;https:&#x2F;&#x2F;blog.foxtrotluna.social&#x2F;images&#x2F;blobfox&#x2F;signforbidden.png?h=a87a674554520fbd922b&quot;
+    alt=&quot;Pixel art animation of a blob fox with a signforbidden expression.&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;For a month now, I&#x27;ve been going on a walk every day. This is some of the most I&#x27;ve &amp;quot;exercised&amp;quot; in a good number of years. How did this help me? &lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Blogging again</title>
+          <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.foxtrotluna.social/blogging-again/</link>
+          <guid>https://blog.foxtrotluna.social/blogging-again/</guid>
+          <description>&lt;h1 id=&quot;blogging-again&quot;&gt;Blogging again&lt;&#x2F;h1&gt;
+&lt;p&gt;Let&#x27;s try writing again!&lt;&#x2F;p&gt;
+&lt;p&gt;I used to write a lot, on paper, in documents and on the internet. However, due to &lt;em&gt;trans reasons&lt;&#x2F;em&gt;, most of those posts are deleted or lost to the aether. The entire reason I started up this new blog page is because there&#x27;s a particular post that I wanted to revive, and which I now believe is lost to time. Sigh.&lt;&#x2F;p&gt;
+&lt;p&gt;Either way, I can&#x27;t let all this effort go to waste, so here&#x27;s a little explanation of why I&#x27;m writing, what I plan on writing, and what tools I&#x27;m
+using to facilitate the putting of words from my head into the bits on your screen.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Productivity, Podcasts, and Survivorship Bias</title>
+          <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.foxtrotluna.social/productivity-bias/</link>
+          <guid>https://blog.foxtrotluna.social/productivity-bias/</guid>
+          <description>&lt;div class=&quot;callout&quot;&gt;
+  
+  &lt;div class=&quot;mascot&quot;&gt;
+  
+    
+    
+    
+  
+  &lt;img  src=&quot;https:&#x2F;&#x2F;blog.foxtrotluna.social&#x2F;images&#x2F;blobfox_flip&#x2F;box.png?h=81af5f5d8af41a3f6951&quot;
+    alt=&quot;Pixel art animation of a blob fox with a box expression.&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+  
+  &lt;div class=&quot;content&quot;&gt;
+      &lt;p&gt;This post is one from my vault of old posts. It does not reflect who I am now, and I&#x27;ll interject with Foxtrot with some thoughts on it as a
+retrospective. The quality of the main post is not up to my current standards, although I hope my interjections will help to keep you interested!&lt;&#x2F;p&gt;
+
+  &lt;&#x2F;div&gt;
+  
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;productivity-podcasts-and-survivorship-bias&quot;&gt;Productivity, Podcasts, and Survivorship Bias&lt;&#x2F;h1&gt;
+&lt;p&gt;These past 12 months I’ve been thinking a lot about productivity, and the systems other people use. &lt;&#x2F;p&gt;
+&lt;p&gt;It started a year ago to the day I’m writing this. On June 1st 2016 I started a new job. My travel time tripled from 20 minutes to 60. To pass the time, I decided to start listening to podcasts, or rather, a single podcast, Hello Internet.&lt;&#x2F;p&gt;
+&lt;p&gt;What I didn’t realise, is how much that podcast ended up changing my life.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Velocity Glyph - 5 years and A Ludum Dare 37 post mortem</title>
+          <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.foxtrotluna.social/velocity-glyph/</link>
+          <guid>https://blog.foxtrotluna.social/velocity-glyph/</guid>
+          <description>&lt;div class=&quot;callout&quot;&gt;
+  
+  &lt;div class=&quot;mascot&quot;&gt;
+  
+    
+    
+    
+  
+  &lt;img  src=&quot;https:&#x2F;&#x2F;blog.foxtrotluna.social&#x2F;images&#x2F;blobfox_flip&#x2F;box.png?h=81af5f5d8af41a3f6951&quot;
+    alt=&quot;Pixel art animation of a blob fox with a box expression.&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+  
+  &lt;div class=&quot;content&quot;&gt;
+      &lt;p&gt;This post is one from my vault of old posts. It does not reflect who I am now, and I&#x27;ll interject with Foxtrot with some thoughts on it as a
+retrospective. The quality of the main post is not up to my current standards, although I hope my interjections will help to keep you interested!&lt;&#x2F;p&gt;
+
+  &lt;&#x2F;div&gt;
+  
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;velocity-glyph-5-years-and-a-ludum-dare-37-post-mortem&quot;&gt;Velocity Glyph - 5 years and A Ludum Dare 37 post mortem&lt;&#x2F;h1&gt;
+&lt;p&gt;This weekend (and Monday), I participated in Ludum Dare 37.&lt;&#x2F;p&gt;
+&lt;p&gt;5 years ago, I also participated in Ludum Dare, for the first time. A lot has changed in those 5 years, as it would. 5 years is a long time. I went from making games as a hobby, to actually managing a games studio, as well as working on them as a hobby. I get paid every day to make games and that’s incredible. For many people, it’s a dream. It was damn hard work getting here, and it’s even more difficult now than ever, of course I’m better prepared for that now. I’m happy with where I am, I’m lucky to be here, and I’m really excited for what the next 5 years brings.&lt;&#x2F;p&gt;
+&lt;p&gt;This time, I created an arcade racer, kinda Wipeout&#x2F;Re-Volt inspired, a miniature hover racing game. I’m pretty impressed with the result. &lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
